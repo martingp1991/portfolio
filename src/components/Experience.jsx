@@ -28,8 +28,8 @@ const experienceData = [
     icon: faBriefcase,
     titleEn: "Studios Pit Design",
     titleEs: "Studios Pit Design",
-    descriptionEn: "I worked as a Community manager and designer for regional businesses, handling administrative tasks and creating engaging content to build their online presence.",
-    descriptionEs: "Trabajé como Community Manager y diseñador para empresas regionales, manejando tareas administrativas y creando contenido atractivo para construir su presencia en línea.",
+    descriptionEn: "I worked as a Community Manager for regional companies, handling administrative tasks and creating engaging content to build their online presence.",
+    descriptionEs: "Trabajé como Community Manager para empresas regionales, manejando tareas administrativas y creando contenido atractivo para construir su presencia en línea.",
     date: "(2022)"
   },
   {
